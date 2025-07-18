@@ -1,3 +1,3 @@
 # HTMLWITHCSS-PROJECT
-This is a hlms css project 
+This is a html css project 
 orbit animation with stars
